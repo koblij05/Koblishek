@@ -18,3 +18,9 @@ Návrh a implementace jednoduchého e-shopu na kterém budu demonstrovat základ
 ## Dokumentace
 
 - [Requirements](docs/requirements.md)
+
+## UML
+
+### Use Case diagram
+
+![Use Case diagram](docs/uml/use-case.png)

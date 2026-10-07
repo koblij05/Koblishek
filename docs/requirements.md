@@ -1,13 +1,18 @@
 # Requirements
 
+## Business requirements
+
+- BR01 - umožnit online prodej koblih
+
 ## Functional requirements
 
 - FR01 - zobrazení nabídky koblih
 - FR02 - zobrazení detailu koblihy
 - FR03 - personalizace koblihy
 - FR04 - přidání do košíku
-- FR05 - odebrání z košíku
-- FR06 - vytvoření objednávky
+- FR05 - zobrazení košíku
+- FR06 - odebrání z košíku
+- FR07 - vytvoření objednávky
 
 ## Non-functional requirements
 

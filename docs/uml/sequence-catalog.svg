@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="735" viewBox="0 0 1100 735" role="img" aria-labelledby="title"><title id="title">01 - Katalog a personalizace (FR01-FR03)</title><rect width="1100" height="735" fill="#fff"/><defs><marker id="call" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0L9 4L0 8Z" fill="#334155"/></marker><marker id="open" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0L9 4L0 8" stroke="#334155" fill="none" stroke-width="1.4"/></marker></defs><g font-family="Arial, sans-serif" fill="#172033">
+<text x="31" y="39.3" text-anchor="start" font-size="20" font-weight="bold">01 - Katalog a personalizace (FR01-FR03)</text>
+<polyline points="85,126 85,677" stroke="#64748b" stroke-width="1" fill="none" stroke-dasharray="6 4"/>
+<g stroke="#334155" stroke-width="1.6" fill="none"><circle cx="85" cy="68" r="8"/><path d="M85 76V92M71 83H99M85 92L73 107M85 92L97 107"/></g><text x="85" y="121" text-anchor="middle" font-size="13">Zákazník</text>
+<polyline points="330,114 330,677" stroke="#64748b" stroke-width="1" fill="none" stroke-dasharray="6 4"/>
+<rect x="239" y="72" width="182" height="42" fill="#e2e8f0" stroke="#334155" stroke-width="1.2"/>
+<text x="330" y="97.76" text-anchor="middle" font-size="14" font-weight="bold">Web</text>
+<polyline points="625,114 625,677" stroke="#64748b" stroke-width="1" fill="none" stroke-dasharray="6 4"/>
+<rect x="534" y="72" width="182" height="42" fill="#e2e8f0" stroke="#334155" stroke-width="1.2"/>
+<text x="625" y="97.76" text-anchor="middle" font-size="14" font-weight="bold">catalog: Catalog</text>
+<polyline points="945,551 945,677" stroke="#64748b" stroke-width="1" fill="none" stroke-dasharray="6 4"/>
+<rect x="854" y="509" width="182" height="42" fill="#e2e8f0" stroke="#334155" stroke-width="1.2"/>
+<text x="945" y="534.76" text-anchor="middle" font-size="14" font-weight="bold">item: CartItem</text>
+<rect x="325" y="145" width="10" height="120" fill="#f8fafc" stroke="#334155" stroke-width="1.2"/>
+<rect x="620" y="185" width="10" height="40" fill="#f8fafc" stroke="#334155" stroke-width="1.2"/>
+<rect x="325" y="310" width="10" height="120" fill="#f8fafc" stroke="#334155" stroke-width="1.2"/>
+<rect x="620" y="350" width="10" height="40" fill="#f8fafc" stroke="#334155" stroke-width="1.2"/>
+<rect x="325" y="480" width="10" height="175" fill="#f8fafc" stroke="#334155" stroke-width="1.2"/>
+<rect x="940" y="585" width="10" height="40" fill="#f8fafc" stroke="#334155" stroke-width="1.2"/>
+<polyline points="85,145 325,145" stroke="#334155" stroke-width="1.3" fill="none" marker-end="url(#call)"/>
+<text x="205" y="136.42" text-anchor="middle" font-size="13" stroke="#fff" stroke-width="4" paint-order="stroke" stroke-linejoin="round">Zobrazit nabídku</text>
+<polyline points="335,185 620,185" stroke="#334155" stroke-width="1.3" fill="none" marker-end="url(#call)"/>
+<text x="477.5" y="176.42" text-anchor="middle" font-size="13" stroke="#fff" stroke-width="4" paint-order="stroke" stroke-linejoin="round">getDonuts()</text>
+<polyline points="620,225 335,225" stroke="#334155" stroke-width="1.3" fill="none" stroke-dasharray="6 4" marker-end="url(#open)"/>
+<text x="477.5" y="216.42" text-anchor="middle" font-size="13" stroke="#fff" stroke-width="4" paint-order="stroke" stroke-linejoin="round">donuts</text>
+<polyline points="325,265 85,265" stroke="#334155" stroke-width="1.3" fill="none" stroke-dasharray="6 4" marker-end="url(#open)"/>
+<text x="205" y="256.42" text-anchor="middle" font-size="13" stroke="#fff" stroke-width="4" paint-order="stroke" stroke-linejoin="round">Nabídka koblih</text>
+<polyline points="85,310 325,310" stroke="#334155" stroke-width="1.3" fill="none" marker-end="url(#call)"/>
+<text x="205" y="301.42" text-anchor="middle" font-size="13" stroke="#fff" stroke-width="4" paint-order="stroke" stroke-linejoin="round">Vybrat koblihu</text>
+<polyline points="335,350 620,350" stroke="#334155" stroke-width="1.3" fill="none" marker-end="url(#call)"/>
+<text x="477.5" y="341.42" text-anchor="middle" font-size="13" stroke="#fff" stroke-width="4" paint-order="stroke" stroke-linejoin="round">getDonut(id)</text>
+<polyline points="620,390 335,390" stroke="#334155" stroke-width="1.3" fill="none" stroke-dasharray="6 4" marker-end="url(#open)"/>
+<text x="477.5" y="381.42" text-anchor="middle" font-size="13" stroke="#fff" stroke-width="4" paint-order="stroke" stroke-linejoin="round">donut</text>
+<polyline points="325,430 85,430" stroke="#334155" stroke-width="1.3" fill="none" stroke-dasharray="6 4" marker-end="url(#open)"/>
+<text x="205" y="421.42" text-anchor="middle" font-size="13" stroke="#fff" stroke-width="4" paint-order="stroke" stroke-linejoin="round">Detail koblihy</text>
+<polyline points="85,480 325,480" stroke="#334155" stroke-width="1.3" fill="none" marker-end="url(#call)"/>
+<text x="205" y="471.42" text-anchor="middle" font-size="13" stroke="#fff" stroke-width="4" paint-order="stroke" stroke-linejoin="round">Zvolit náplň a polevu</text>
+<polyline points="335,530 854,530" stroke="#334155" stroke-width="1.3" fill="none" stroke-dasharray="6 4" marker-end="url(#open)"/>
+<text x="594.5" y="521.42" text-anchor="middle" font-size="13" stroke="#fff" stroke-width="4" paint-order="stroke" stroke-linejoin="round">«create»</text>
+<polyline points="335,585 940,585" stroke="#334155" stroke-width="1.3" fill="none" marker-end="url(#call)"/>
+<text x="637.5" y="576.42" text-anchor="middle" font-size="13" stroke="#fff" stroke-width="4" paint-order="stroke" stroke-linejoin="round">customize(filling, topping)</text>
+<polyline points="325,655 85,655" stroke="#334155" stroke-width="1.3" fill="none" stroke-dasharray="6 4" marker-end="url(#open)"/>
+<text x="205" y="646.42" text-anchor="middle" font-size="13" stroke="#fff" stroke-width="4" paint-order="stroke" stroke-linejoin="round">Personalizovaná kobliha</text>
+<rect x="30" y="690" width="1040" height="29" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.2"/>
+<text x="41" y="707.58" text-anchor="start" font-size="12">Vybraná kobliha existuje. Položka je připravena k přidání do košíku.</text>
+</g></svg>

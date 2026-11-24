@@ -38,3 +38,19 @@ Návrh a implementace jednoduchého e-shopu na kterém budu demonstrovat základ
 ![Class diagram](docs/uml/class-diagram.svg)
 
 [Draw.io source](docs/uml/class-diagram.drawio)
+
+### Sequence diagrams
+
+[Draw.io source](docs/uml/sequence-diagrams.drawio)
+
+#### Katalog a personalizace (FR01–FR03)
+
+![Sequence - katalog](docs/uml/sequence-catalog.svg)
+
+#### Práce s košíkem (FR04–FR06)
+
+![Sequence - košík](docs/uml/sequence-cart.svg)
+
+#### Vytvoření objednávky (FR07)
+
+![Sequence - objednávka](docs/uml/sequence-order.svg)

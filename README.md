@@ -15,6 +15,13 @@ Návrh a implementace jednoduchého e-shopu na kterém budu demonstrovat základ
 - GitHub
 - UML (Draw.io)
 
+## Metodika vývoje
+
+- Model: iterativní vývoj (Cycle)
+- Přístup: zjednodušený Scrum
+- Evidence úkolů: Kanban (To Do, In Progress, Done)
+- Průběh iterace: plánování, návrh, implementace, testování, vyhodnocení
+
 ## Dokumentace
 
 - [Requirements](docs/requirements.md)

@@ -25,6 +25,7 @@ Návrh a implementace jednoduchého e-shopu na kterém budu demonstrovat základ
 ## Dokumentace
 
 - [Requirements](docs/requirements.md)
+- [Classes](docs/classes.md)
 
 ## UML
 

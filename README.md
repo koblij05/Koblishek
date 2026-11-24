@@ -32,3 +32,9 @@ Návrh a implementace jednoduchého e-shopu na kterém budu demonstrovat základ
 ### Use Case diagram
 
 ![Use Case diagram](docs/uml/use-case.png)
+
+### Class diagram
+
+![Class diagram](docs/uml/class-diagram.svg)
+
+[Draw.io source](docs/uml/class-diagram.drawio)
